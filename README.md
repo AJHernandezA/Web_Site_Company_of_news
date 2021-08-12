@@ -2,7 +2,7 @@
 
 Technologies: Html, css
 
- <strong>Enter Here:</strong> hhttps://ajhernandeza.github.io/Web_Site_Company_of_news/
+ <strong>Enter Here:</strong> https://ajhernandeza.github.io/Web_Site_Company_of_news/
 
 Preview:
 
